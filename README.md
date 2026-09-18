@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Personal Profile</title>
-</head>
-<body>
-    <h1>Gian Patrick Garcia</h1>
-
-    <h2>About Me</h2>
-
-    <p>Hello! My name is Gian Patrick Garcia. I am a BSIT student who is interested in technology and website.</p>
-
-    <p>I enjoy learning new skills, and improve my knowledge about technology and website.</p>
-
-    <img src="Screenshot_20260918-131 725.jpg" alt="Photo of me " width="200">
-
-    <h2>My Skills and Hobbies</h2>
-
-    <ul>
-        <li>Web Development</li>
-        <li>Playing Online Games</li>
-        <li>Watching Movies</li>
-        <li>basketball</li>
-    </ul>
-
-    <h2>My Top 3 Goals This Term</h2>
 
     <ol>
         <li>Improve my web development skills.</li>
